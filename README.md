@@ -1,2 +1,2 @@
 # Crop-Row-Detection
-A deep learning model that can detect crop rows from input images
+A deep learning model(Image Semantic segmentation) that can detect crop rows from input images
